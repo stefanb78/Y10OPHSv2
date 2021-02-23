@@ -1,0 +1,5 @@
+number=input(str("please input a number less than '20': \n"))
+if number >= str(20) :
+    print("too high")
+elif number <= str(20) :
+    print("Thank you.")
