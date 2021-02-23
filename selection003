@@ -1,0 +1,5 @@
+number=input(str("enter a number between 10 and 20: \n"))
+if number > str(10) and number < str(20):
+        print("thank you")
+elif:
+    print("incorrect answer")
