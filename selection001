@@ -1,0 +1,7 @@
+number_1=input(str("Enter your first number: \n"))
+number_2=input(str("Enter your second number: \n"))
+
+if number_1 >= number_2 :
+    print(number_2, number_1)
+else :
+    print(number_1, number_2)
